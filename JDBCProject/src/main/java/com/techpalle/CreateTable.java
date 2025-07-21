@@ -9,8 +9,6 @@ public class CreateTable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		//step 1:load driver
 				try {
 					//step 1:load driver
 					Class.forName("com.mysql.cj.jdbc.Driver");
